@@ -15,6 +15,6 @@ town_tax = Tax_Rate * gross_income;
 printf ("Town tax is RM %f .", town_tax);
 
 return 0;
-}   /*Function body end*/
+}   /*Function body end here*/
 
 
