@@ -1,3 +1,6 @@
+// created on 2018
+// bt davey0404
+
 #include <stdio.h>
 
 const double Tax_Rate = 0.0175; // constant declaration
