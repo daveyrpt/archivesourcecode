@@ -1,5 +1,5 @@
-// created on 2018
-// bt davey0404
+// coded on 2017
+// edit by davey0404
 
 #include <stdio.h>
 
