@@ -8,13 +8,13 @@ int main(void) {
 		double town_tax;
 
 /*Function body*/
-printf ("A PROGRAM THAT COMPUTES TOWN INCOME TAX\n");
+printf ("AUTO COMPUTES TOWN INCOME TAX\n");
 printf ("Enter gross income: RM ");
 scanf ("%lf", &gross_income);
 town_tax = Tax_Rate * gross_income;
 printf ("Town tax is RM %f .", town_tax);
 
 return 0;
-}   /*Function body end here*/
+}   /*Function body end here*/ 
 
 
