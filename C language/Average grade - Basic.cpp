@@ -1,11 +1,11 @@
-// average grade for ten students
+// Average grade for ten students
 
 #include <stdio.h>
 
 int main(void)
 {
 	// set variable
-	int numStudent = 1;
+	unsigned int numStudent = 1; // act as counter
 	int gradeStudent;
 	float averageGrade = 0;
 	
