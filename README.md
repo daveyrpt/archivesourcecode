@@ -1,4 +1,4 @@
-**** UPDATING TILL NOTICE REMOVED ****
+**** UPDATING ****
 # archivesourcecode
-Free open source code for educational purpose - seperated into 3 category ( basic , moderate , complex )
+Free personal open source code for educational purpose only
 
